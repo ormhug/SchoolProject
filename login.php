@@ -36,6 +36,6 @@ $con = mysqli_connect('localhost', 'root', 'root', 'unityaccess');
 		exit();
 	}
 
-	echo "0\t" . $existinginfo["score"]";
+	echo "0\t" . $existinginfo["score"]"";
 
 ?>
